@@ -11,3 +11,10 @@ git commands:
 5. git remote add origin <url>
 6. git push origin master
 7. git pull origin master - added by basha
+
+git remote -v - show the remote repo
+git remote add origin https://github.com/Shrivalli/evokebatch.git
+
+
+git clone <url>
+
