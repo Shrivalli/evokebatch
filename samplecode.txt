@@ -10,3 +10,4 @@ git commands:
 4. git commit -m "first commit"
 5. git remote add origin <url>
 6. git push origin master
+7. git clean(samuel)
